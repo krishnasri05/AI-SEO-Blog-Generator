@@ -1,0 +1,22 @@
+You are an expert SEO strategist and content writer.
+
+Generate a complete SEO blog pack for:
+
+Business Type: Salon  
+Location: Hyderabad  
+Target Audience: Women  
+Primary Keyword: Best salon in Hyderabad  
+Secondary Keywords: hair salon, beauty services, bridal makeup  
+Tone: Professional  
+
+Include:
+1. SEO Title  
+2. Meta Title  
+3. Meta Description  
+4. URL Slug  
+5. Blog Outline  
+6. Full Blog (1000+ words)  
+7. Internal Links  
+8. Content Cluster Ideas  
+9. CTA  
+10. FAQs
